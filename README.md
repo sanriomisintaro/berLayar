@@ -39,12 +39,12 @@ Aplikasi ini berjalan secara **offline** di jaringan lokal (LAN/WiFi), dan dapat
 
 Ingin versi khusus dengan logo dan teks Anda sendiri?
 
-📱 WhatsApp: **+62899-2277-917**  
-✉️ Email: rheomie@gmail.com
+WhatsApp: **+62899-2277-917**  
+Email: rheomie@gmail.com
 
 ---
 
-## 📝 Lisensi
+## Lisensi
 
 Aplikasi ini tersedia secara gratis untuk penggunaan pribadi dan edukasi.  
 Silakan hubungi kami untuk kebutuhan kustomisasi atau penggunaan komersial.
