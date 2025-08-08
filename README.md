@@ -16,29 +16,30 @@ Aplikasi ini berjalan secara **offline** di jaringan lokal (LAN/WiFi), dan dapat
 
 ## Produk berLayar
 
-### 1) Lite Edition (Windows)
-- **Tanpa GUI** (berjalan di console).
+### 1) berLayar Lite _(Gratis)_
+- **Console-only** (tanpa GUI).
 - Hanya membagikan layar utama.
-- Tidak ada pilihan monitor, FPS, kualitas, kamera, atau kustomisasi.
-- **Menghentikan:** tutup jendela console.
-- Cocok untuk **PC/laptop low-end** dan penggunaan cepat.
+- Tidak ada kustomisasi (monitor, FPS, kualitas).
+- Menghentikan stream dengan menutup console.
+- Ringan, cocok untuk **komputer low-end**.
 
-### 2) Pro Edition (Windows)
+### 2) berLayar _(Gratis)_
 - **GUI Admin Panel** lengkap.
 - Pilih monitor, atur FPS/kualitas/skala.
 - **Kamera PiP** (posisi/ukuran/opacity).
-- **Pratinjau** sebelum berbagi layar (toggle).
 - Tema gelap/terang & ukuran font.
-- Info **IP:PORT** & **timer durasi**.
-- Kustomisasi tampilan viewer (`index.html`, logo, dsb.).
-- **Stop** via GUI atau dengan menutup console.
 
-### 3) Exclusive Build — Platform Edition (macOS/Linux)
-- Build **khusus** untuk **macOS**/**Linux** (non-publik; by request).
-- **Fitur setara Pro Edition**, disesuaikan dengan platform target.
-- Proses integrasi/penyesuaian dilakukan secara manual.
+### 3) berLayar Pro _(Berbayar — Windows)_
+- Semua fitur di **berLayar** +
+  - **Pratinjau** sebelum berbagi layar
+  - **Timer** durasi sesi
+  - **Kustomisasi** `index.html` & logo viewer
+- Solusi lengkap untuk penggunaan **profesional**.
 
-> **Catatan:** **Pro Edition** dan **Exclusive Build (Platform Edition)** memiliki **fitur yang sama**. Perbedaannya hanya **platform** (Windows vs macOS/Linux) dan **model distribusi** (publik vs khusus).
+### 4) Exclusive Build — Platform Edition _(Berbayar — macOS/Linux)_
+- Turunan dari **berLayar Pro**.
+- Fitur disesuaikan kemampuan platform.
+- Distribusi terbatas; hanya melalui pemesanan khusus.
 
 ---
 
@@ -46,87 +47,36 @@ Aplikasi ini berjalan secara **offline** di jaringan lokal (LAN/WiFi), dan dapat
 
 > Fokus utama rilis publik saat ini adalah **Windows**. Paket Exclusive Build melayani macOS/Linux secara khusus (non-publik).
 
-| Paket | OS | CPU Minimal | RAM | Display | Jaringan | Catatan |
-|------|----|-------------|-----|---------|----------|---------|
+| Build | OS | CPU Minimal | RAM | Display | Jaringan | Catatan |
+|-------|----|-------------|-----|---------|----------|---------|
 | **Lite** | Windows 10/11 (64-bit) | Dual-core i3 gen4 / setara | 2 GB (disarankan 4 GB) | 1366×768 | Wi-Fi 4 / LAN | Tidak perlu kamera |
-| **Pro** | Windows 10/11 (64-bit) | Dual-core i3 gen6 / Ryzen 3 | 4 GB (disarankan 8 GB) | 1920×1080 | Wi-Fi 5/6 / LAN Gigabit | **Perlu Kamera** |
-| **Exclusive Build** | macOS / Linux | Setara Pro | Sesuai OS | Sesuai OS | Sesuai OS | **Kamera dapat menyesuaikan** |
+| **berLayar** | Windows 10/11 (64-bit) | Dual-core i3 gen6 / Ryzen 3 | 4 GB (disarankan 8 GB) | 1920×1080 | Wi-Fi 5/6 / LAN Gigabit | Kamera diperlukan untuk PiP |
+| **Pro** | Windows 10/11 (64-bit) | Dual-core i3 gen6 / Ryzen 3 | 4 GB (disarankan 8 GB) | 1920×1080 | Wi-Fi 5/6 / LAN Gigabit | Kamera diperlukan untuk PiP |
+| **Exclusive Build** | macOS / Linux | Setara Pro | Sesuai OS | Sesuai OS | Sesuai OS | Integrasi manual; fitur menyesuaikan |
 
 ---
-## Perbandingan Fitur — Lite vs Pro
 
-> **Pro** dan **Exclusive Build** setara fitur. Untuk paket **Exclusive Build**, rujuk kolom **Pro**.
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left;">Fitur</th>
-      <th style="text-align:center;">Lite</th>
-      <th style="text-align:center;">Pro</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Jalankan dengan double-click</td>
-      <td style="text-align:center;">✔</td>
-      <td style="text-align:center;">✔</td>
-    </tr>
-    <tr>
-      <td>Streaming layar</td>
-      <td style="text-align:center;">✔</td>
-      <td style="text-align:center;">✔</td>
-    </tr>
-    <tr>
-      <td>GUI Admin Panel</td>
-      <td style="text-align:center;">✖</td>
-      <td style="text-align:center;">✔</td>
-    </tr>
-    <tr>
-      <td>Pilih monitor yang ingin dibagikan</td>
-      <td style="text-align:center;">✖</td>
-      <td style="text-align:center;">✔</td>
-    </tr>
-    <tr>
-      <td>Atur FPS</td>
-      <td style="text-align:center;">✖</td>
-      <td style="text-align:center;">✔</td>
-    </tr>
-    <tr>
-      <td>Atur kualitas gambar</td>
-      <td style="text-align:center;">✖</td>
-      <td style="text-align:center;">✔</td>
-    </tr>
-    <tr>
-      <td>Atur skala ukuran layar</td>
-      <td style="text-align:center;">✖</td>
-      <td style="text-align:center;">✔</td>
-    </tr>
-    <tr>
-      <td>Integrasi kamera</td>
-      <td style="text-align:center;">✖</td>
-      <td style="text-align:center;">✔</td>
-    </tr>
-    <tr>
-      <td>Atur posisi/ukuran/opacity kamera</td>
-      <td style="text-align:center;">✖</td>
-      <td style="text-align:center;">✔</td>
-    </tr>
-    <tr>
-      <td>Pratinjau sebelum berbagi layar</td>
-      <td style="text-align:center;">✖</td>
-      <td style="text-align:center;">✔</td>
-    </tr>
-    <tr>
-      <td>Timer durasi sesi</td>
-      <td style="text-align:center;">✖</td>
-      <td style="text-align:center;">✔</td>
-    </tr>
-    <tr>
-      <td>Kustomisasi <code>index.html</code> & logo viewer</td>
-      <td style="text-align:center;">✖</td>
-      <td style="text-align:center;">✔</td>
-    </tr>
-  </tbody>
-</table>
+## Perbandingan Fitur
+
+| Fitur | Lite | berLayar | Pro | Exclusive Build |
+|-------|------|----------|-----|-----------------|
+| Jalankan dengan double-click | ✔ | ✔ | ✔ | ✔ |
+| Streaming layar utama | ✔ | ✔ | ✔ | ✔ |
+| Menghentikan stream dengan tutup console | ✔ | ✔ | ✔ | ✔ |
+| GUI Admin Panel | ✘ | ✔ | ✔ | ✔ |
+| Pilih monitor yang ingin dibagikan | ✘ | ✔ | ✔ | ✔ |
+| Atur FPS (5–30) | ✘ | ✔ | ✔ | ✔ |
+| Atur kualitas JPEG (30–100) | ✘ | ✔ | ✔ | ✔ |
+| Atur skala ukuran layar (50–100%) | ✘ | ✔ | ✔ | ✔ |
+| Integrasi kamera (PiP) | ✘ | ✔ | ✔ | ✔ |
+| Atur posisi/ukuran/opacity kamera | ✘ | ✔ | ✔ | ✔ |
+| Tema gelap/terang & ukuran font UI | ✘ | ✔ | ✔ | ✔ |
+| **Pratinjau sebelum berbagi layar** | ✘ | ✘ | ✔ | ✔* |
+| **Timer durasi sesi** | ✘ | ✘ | ✔ | ✔* |
+| **Kustomisasi `index.html` & logo viewer** | ✘ | ✘ | ✔ | ✔* |
+| Menghentikan stream via GUI | ✘ | ✔ | ✔ | ✔ |
+
+> \* Ketersediaan di **Exclusive Build** tergantung platform dan integrasi yang diinginkan.
 
 ---
 
@@ -134,17 +84,20 @@ Aplikasi ini berjalan secara **offline** di jaringan lokal (LAN/WiFi), dan dapat
 **Console — Lite Edition**  
 ![Console Lite](docs/images/console-lite.png)
 
-**GUI — Pro Edition (Dark)**  
+**Gui — berLayar**
+![GUI berLayar](docs/images/gui-berLayar-light.png)
+
+**GUI — Pro Edition (Dark)**
 ![GUI Pro](docs/images/gui-pro-dark.png)
 
-**Viewer — Browser Client**  
+**Viewer — Browser Client — Versi Gratis**
 ![Viewer Client](docs/images/viewer-client.png)
 
 ---
 
 ## Cara Menggunakan
 
-### Lite Edition
+### berLayar Lite
 
 1. **Jalankan file `berLayar.exe`**  
    (cukup klik dua kali)
@@ -161,7 +114,7 @@ Aplikasi ini berjalan secara **offline** di jaringan lokal (LAN/WiFi), dan dapat
 4. Anda akan melihat tampilan layar dari komputer pengirim secara langsung di browser.
    Catatan: Pastikan firewall tidak memblokir koneksi ke port 2025.
 
-### Pro Edition
+### berLayar / berLayar Pro
 1. **Double-click `berLayar.exe`**
 	(cukup klik dua kali)
 
@@ -186,14 +139,15 @@ Aplikasi ini berjalan secara **offline** di jaringan lokal (LAN/WiFi), dan dapat
 
 ## Tips Kinerja
 
-- **Lite:** cocok untuk perangkat spesifikasi minim.
-- **Pro/Exclusive:** kurangi FPS/kualitas/skala bila performa rendah.
-- Gunakan LAN/Wi-Fi 5/6 untuk latensi lebih rendah.
-- Kamera akan menaikkan beban encode, pastikan komputer dan router anda terjamin.
+- **berLayar Lite:** cocok untuk perangkat spesifikasi minim.
+- **berLayar/berLayar Pro:** kurangi FPS/kualitas/skala bila performa rendah.
+ - Gunakan LAN/Wi-Fi 5/6 untuk latensi lebih rendah.
+ - Kamera akan menaikkan beban encode, pastikan komputer dan router anda terjamin.
 
 ---
 
 ## Keamanan
+
 - Ditujukan untuk **jaringan lokal**.
 - Hindari membagikan IP di jaringan publik tanpa proteksi.
 - Matikan aplikasi saat tidak digunakan (Menutup GUI/Console).
@@ -202,14 +156,15 @@ Aplikasi ini berjalan secara **offline** di jaringan lokal (LAN/WiFi), dan dapat
 
 ## Kontak
 
-Ingin versi khusus dengan logo dan teks Anda sendiri?
+Ingin versi Pro yang khusus dengan logo dan teks Anda sendiri?
 
-WhatsApp: **+62899-2277-917**  
-Email: rheomie@gmail.com
+- WhatsApp: **+62899-2277-917**  
+- Email: rheomie@gmail.com
+- Jam operasional: **08.00 - 16.00 WIB**
 
 ---
 
 ## Lisensi
 
-Aplikasi **Lite Edition** tersedia secara gratis untuk penggunaan pribadi dan edukasi.  
-Untuk **Pro Edition & Exclusive Build (Platform Edition):** Silakan hubungi kami untuk kebutuhan kustomisasi atau penggunaan komersial.
+Aplikasi **berLayar Lite dan berLayar** tersedia secara gratis untuk penggunaan **pribadi** dan **edukasi**.  
+Untuk **berLayar Pro & Exclusive Build (Platform Edition)** Silakan hubungi kami untuk kebutuhan kustomisasi atau penggunaan **komersial**.
