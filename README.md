@@ -64,17 +64,16 @@ Aplikasi ini berjalan secara **offline** di jaringan lokal (LAN/WiFi), dan dapat
 | Streaming layar utama | ✔ | ✔ | ✔ | ✔ |
 | Menghentikan stream dengan tutup console | ✔ | ✔ | ✔ | ✔ |
 | GUI Admin Panel | ✘ | ✔ | ✔ | ✔ |
-| Pilih monitor yang ingin dibagikan | ✘ | ✔ | ✔ | ✔ |
+| Pilih monitor yang ingin dibagikan | ✘ | ✔ | ✔ | ✔* |
 | Atur FPS (5–30) | ✘ | ✔ | ✔ | ✔ |
 | Atur kualitas JPEG (30–100) | ✘ | ✔ | ✔ | ✔ |
 | Atur skala ukuran layar (50–100%) | ✘ | ✔ | ✔ | ✔ |
-| Integrasi kamera (PiP) | ✘ | ✔ | ✔ | ✔ |
-| Atur posisi/ukuran/opacity kamera | ✘ | ✔ | ✔ | ✔ |
+| Integrasi kamera (PiP) | ✘ | ✔ | ✔ | ✔* |
+| Atur posisi/ukuran/opacity kamera | ✘ | ✔ | ✔ | ✔* |
 | Tema gelap/terang & ukuran font UI | ✘ | ✔ | ✔ | ✔ |
 | **Pratinjau sebelum berbagi layar** | ✘ | ✘ | ✔ | ✔* |
 | **Timer durasi sesi** | ✘ | ✘ | ✔ | ✔* |
-| **Kustomisasi `index.html` & logo viewer** | ✘ | ✘ | ✔ | ✔* |
-| Menghentikan stream via GUI | ✘ | ✔ | ✔ | ✔ |
+| **Kustomisasi `index.html` & logo viewer** | ✘ | ✘ | ✔ | ✔ |
 
 > \* Ketersediaan di **Exclusive Build** tergantung platform dan integrasi yang diinginkan.
 
