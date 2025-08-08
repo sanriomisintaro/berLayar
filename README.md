@@ -64,7 +64,6 @@ Aplikasi ini berjalan secara **offline** di jaringan lokal (LAN/WiFi), dan dapat
     <path fill="#FA5252" d="M18.3 5.7l-1.4-1.4L12 9.2 7.1 4.3 5.7 5.7 10.6 10.6 5.7 15.5l1.4 1.4L12 12 16.9 16.9l1.4-1.4-4.9-4.9z"/>
   </symbol>
 </svg>
-
 <table>
   <thead>
     <tr>
@@ -74,81 +73,65 @@ Aplikasi ini berjalan secara **offline** di jaringan lokal (LAN/WiFi), dan dapat
     </tr>
   </thead>
   <tbody>
-    <!-- Fitur dasar (ada di semua edisi) -->
     <tr>
       <td>Jalankan dengan double-click</td>
-      <td style="text-align:center;"><svg width="18" height="18" role="img" aria-label="Ya"><use href="#icon-check"/></svg></td>
-      <td style="text-align:center;"><svg width="18" height="18" role="img" aria-label="Ya"><use href="#icon-check"/></svg></td>
+      <td style="text-align:center;">✔</td>
+      <td style="text-align:center;"><svg width="18" height="18" role="img" aria-label="Tersedia"><use href="#icon-check"/></svg></td>
     </tr>
     <tr>
-      <td>Streaming layar utama</td>
-      <td style="text-align:center;"><svg width="18" height="18" role="img" aria-label="Ya"><use href="#icon-check"/></svg></td>
-      <td style="text-align:center;"><svg width="18" height="18" role="img" aria-label="Ya"><use href="#icon-check"/></svg></td>
-    </tr>
-    <tr>
-      <td>Menghentikan stream dengan tutup console</td>
-      <td style="text-align:center;"><svg width="18" height="18" role="img" aria-label="Ya"><use href="#icon-check"/></svg></td>
-      <td style="text-align:center;"><svg width="18" height="18" role="img" aria-label="Ya"><use href="#icon-check"/></svg></td>
+      <td>Streaming layar</td>
+      <td style="text-align:center;">✔</td>
+      <td style="text-align:center;">✔</td>
     </tr>
     <tr>
       <td>GUI Admin Panel</td>
-      <td style="text-align:center;"><svg width="18" height="18" role="img" aria-label="Tidak"><use href="#icon-cross"/></svg></td>
-      <td style="text-align:center;"><svg width="18" height="18" role="img" aria-label="Ya"><use href="#icon-check"/></svg></td>
+      <td style="text-align:center;">✖</td>
+      <td style="text-align:center;">✔</td>
     </tr>
     <tr>
       <td>Pilih monitor yang ingin dibagikan</td>
-      <td style="text-align:center;"><svg width="18" height="18" role="img" aria-label="Tidak"><use href="#icon-cross"/></svg></td>
-      <td style="text-align:center;"><svg width="18" height="18" role="img" aria-label="Ya"><use href="#icon-check"/></svg></td>
+      <td style="text-align:center;">✖</td>
+      <td style="text-align:center;">✔</td>
     </tr>
     <tr>
-      <td>Atur FPS (5–30)</td>
-      <td style="text-align:center;"><svg width="18" height="18" role="img" aria-label="Tidak"><use href="#icon-cross"/></svg></td>
-      <td style="text-align:center;"><svg width="18" height="18" role="img" aria-label="Ya"><use href="#icon-check"/></svg></td>
+      <td>Atur FPS</td>
+      <td style="text-align:center;">✖</td>
+      <td style="text-align:center;">✔</td>
     </tr>
     <tr>
-      <td>Atur kualitas JPEG (30–100)</td>
-      <td style="text-align:center;"><svg width="18" height="18" role="img" aria-label="Tidak"><use href="#icon-cross"/></svg></td>
-      <td style="text-align:center;"><svg width="18" height="18" role="img" aria-label="Ya"><use href="#icon-check"/></svg></td>
+      <td>Atur kualitas gambar</td>
+      <td style="text-align:center;">✖</td>
+      <td style="text-align:center;">✔</td>
     </tr>
     <tr>
-      <td>Atur skala ukuran layar (50–100%)</td>
-      <td style="text-align:center;"><svg width="18" height="18" role="img" aria-label="Tidak"><use href="#icon-cross"/></svg></td>
-      <td style="text-align:center;"><svg width="18" height="18" role="img" aria-label="Ya"><use href="#icon-check"/></svg></td>
+      <td>Atur skala ukuran layar</td>
+      <td style="text-align:center;">✖</td>
+      <td style="text-align:center;">✔</td>
     </tr>
     <tr>
-      <td>Integrasi kamera (PiP)</td>
-      <td style="text-align:center;"><svg width="18" height="18" role="img" aria-label="Tidak"><use href="#icon-cross"/></svg></td>
-      <td style="text-align:center;"><svg width="18" height="18" role="img" aria-label="Ya"><use href="#icon-check"/></svg></td>
+      <td>Integrasi kamera</td>
+      <td style="text-align:center;">✖</td>
+      <td style="text-align:center;">✔</td>
     </tr>
     <tr>
       <td>Atur posisi/ukuran/opacity kamera</td>
-      <td style="text-align:center;"><svg width="18" height="18" role="img" aria-label="Tidak"><use href="#icon-cross"/></svg></td>
-      <td style="text-align:center;"><svg width="18" height="18" role="img" aria-label="Ya"><use href="#icon-check"/></svg></td>
-    </tr>
-    <tr>
-      <td>Tema gelap/terang & ukuran font UI</td>
-      <td style="text-align:center;"><svg width="18" height="18" role="img" aria-label="Tidak"><use href="#icon-cross"/></svg></td>
-      <td style="text-align:center;"><svg width="18" height="18" role="img" aria-label="Ya"><use href="#icon-check"/></svg></td>
+      <td style="text-align:center;">✖</td>
+      <td style="text-align:center;">✔</td>
     </tr>
     <tr>
       <td>Pratinjau sebelum berbagi layar</td>
-      <td style="text-align:center;"><svg width="18" height="18" role="img" aria-label="Tidak"><use href="#icon-cross"/></svg></td>
-      <td style="text-align:center;"><svg width="18" height="18" role="img" aria-label="Ya"><use href="#icon-check"/></svg></td>
+      <td style="text-align:center;">✖</td>
+      <td style="text-align:center;">✔</td>
     </tr>
     <tr>
       <td>Timer durasi sesi</td>
-      <td style="text-align:center;"><svg width="18" height="18" role="img" aria-label="Tidak"><use href="#icon-cross"/></svg></td>
-      <td style="text-align:center;"><svg width="18" height="18" role="img" aria-label="Ya"><use href="#icon-check"/></svg></td>
+      <td style="text-align:center;">✖</td>
+      <td style="text-align:center;">✔</td>
     </tr>
     <tr>
       <td>Kustomisasi <code>index.html</code> & logo viewer</td>
-      <td style="text-align:center;"><svg width="18" height="18" role="img" aria-label="Tidak"><use href="#icon-cross"/></svg></td>
-      <td style="text-align:center;"><svg width="18" height="18" role="img" aria-label="Ya"><use href="#icon-check"/></svg></td>
-    </tr>
-    <tr>
-      <td>Menghentikan stream lewat GUI</td>
-      <td style="text-align:center;"><svg width="18" height="18" role="img" aria-label="Tidak"><use href="#icon-cross"/></svg></td>
-      <td style="text-align:center;"><svg width="18" height="18" role="img" aria-label="Ya"><use href="#icon-check"/></svg></td>
+      <td style="text-align:center;">✖</td>
+      <td style="text-align:center;">✔</td>
     </tr>
   </tbody>
 </table>
