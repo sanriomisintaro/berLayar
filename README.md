@@ -49,8 +49,8 @@ Aplikasi ini berjalan secara **offline** di jaringan lokal (LAN/WiFi), dan dapat
 | Paket | OS | CPU Minimal | RAM | Display | Jaringan | Catatan |
 |------|----|-------------|-----|---------|----------|---------|
 | **Lite** | Windows 10/11 (64-bit) | Dual-core i3 gen4 / setara | 2 GB (disarankan 4 GB) | 1366×768 | Wi-Fi 4 / LAN | Tidak perlu kamera |
-| **Pro** | Windows 10/11 (64-bit) | Dual-core i3 gen6 / Ryzen 3 | 4 GB (disarankan 8 GB) | 1920×1080 | Wi-Fi 5/6 / LAN Gigabit | **Kamera diperlukan** |
-| **Exclusive Build** | macOS / Linux | Setara Pro | Sesuai OS | Sesuai OS | Sesuai OS | Integrasi manual; fitur setara Pro |
+| **Pro** | Windows 10/11 (64-bit) | Dual-core i3 gen6 / Ryzen 3 | 4 GB (disarankan 8 GB) | 1920×1080 | Wi-Fi 5/6 / LAN Gigabit | **Perlu Kamera** |
+| **Exclusive Build** | macOS / Linux | Setara Pro | Sesuai OS | Sesuai OS | Sesuai OS | **Kamera dapat menyesuaikan** |
 
 ---
 ## 📊 Perbandingan Fitur — Lite vs Pro
@@ -90,8 +90,6 @@ Aplikasi ini berjalan secara **offline** di jaringan lokal (LAN/WiFi), dan dapat
       <td style="text-align:center;"><svg width="18" height="18" role="img" aria-label="Ya"><use href="#icon-check"/></svg></td>
       <td style="text-align:center;"><svg width="18" height="18" role="img" aria-label="Ya"><use href="#icon-check"/></svg></td>
     </tr>
-
-    <!-- Fitur Pro-only -->
     <tr>
       <td>GUI Admin Panel</td>
       <td style="text-align:center;"><svg width="18" height="18" role="img" aria-label="Tidak"><use href="#icon-cross"/></svg></td>
