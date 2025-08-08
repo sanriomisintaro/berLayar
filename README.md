@@ -89,6 +89,9 @@ Aplikasi ini berjalan secara **offline** di jaringan lokal (LAN/WiFi), dan dapat
 **GUI — Pro Edition (Dark)**
 ![GUI Pro](docs/images/gui-pro-dark.png)
 
+**GUI — Pro Edition (Preview Load)**
+![GUI Load_Preview](docs/images/gui-pro-preview-load.png)
+
 **Viewer — Browser Client — Versi Gratis**
 ![Viewer Client](docs/images/viewer-client.png)
 
