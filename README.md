@@ -53,17 +53,9 @@ Aplikasi ini berjalan secara **offline** di jaringan lokal (LAN/WiFi), dan dapat
 | **Exclusive Build** | macOS / Linux | Setara Pro | Sesuai OS | Sesuai OS | Sesuai OS | **Kamera dapat menyesuaikan** |
 
 ---
-## 📊 Perbandingan Fitur — Lite vs Pro
+## Perbandingan Fitur — Lite vs Pro
 
 > **Pro** dan **Exclusive Build** setara fitur. Untuk paket **Exclusive Build**, rujuk kolom **Pro**.
-<svg xmlns="http://www.w3.org/2000/svg" style="display:none;">
-  <symbol id="icon-check" viewBox="0 0 24 24">
-    <path fill="#12B886" d="M9 16.2l-3.5-3.5-1.4 1.4L9 19 20.3 7.7l-1.4-1.4z"/>
-  </symbol>
-  <symbol id="icon-cross" viewBox="0 0 24 24">
-    <path fill="#FA5252" d="M18.3 5.7l-1.4-1.4L12 9.2 7.1 4.3 5.7 5.7 10.6 10.6 5.7 15.5l1.4 1.4L12 12 16.9 16.9l1.4-1.4-4.9-4.9z"/>
-  </symbol>
-</svg>
 <table>
   <thead>
     <tr>
@@ -76,7 +68,7 @@ Aplikasi ini berjalan secara **offline** di jaringan lokal (LAN/WiFi), dan dapat
     <tr>
       <td>Jalankan dengan double-click</td>
       <td style="text-align:center;">✔</td>
-      <td style="text-align:center;"><svg width="18" height="18" role="img" aria-label="Tersedia"><use href="#icon-check"/></svg></td>
+      <td style="text-align:center;">✔</td>
     </tr>
     <tr>
       <td>Streaming layar</td>
