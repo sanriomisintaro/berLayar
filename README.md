@@ -142,7 +142,7 @@ Aplikasi ini berjalan secara **offline** di jaringan lokal (LAN/WiFi), dan dapat
 
 2. **Atur parameter di GUI**
 	Aktifkan kamera jika ingin menggunakan kamera kemudian seusaikan pengaturan lain dengan kebutuhan.
-  >> Opsi bertanda **(pro)** hanya tersedia di versi Pro.
+    - Opsi bertanda **(pro)** hanya tersedia di versi Pro.
 
 3. Klik **Mulai**; alamat **IP:2025** tampil di panel.
 	Informasi akan tampil di panel menandakan berLayar sudah berjalan.
