@@ -116,6 +116,7 @@ Aplikasi ini berjalan secara **offline** di jaringan lokal (LAN/WiFi), dan dapat
 ## Cara Menggunakan
 
 ### berLayar Lite
+> Lihat panduan penggunaan di folder [docs/user-guide/berLayar-lite.md](docs/user-guide/berLayar-lite.md).
 
 1. **Jalankan file `berLayar.exe`**  
    (cukup klik dua kali)
@@ -132,19 +133,39 @@ Aplikasi ini berjalan secara **offline** di jaringan lokal (LAN/WiFi), dan dapat
 4. Anda akan melihat tampilan layar dari komputer pengirim secara langsung di browser.
    Catatan: Pastikan firewall tidak memblokir koneksi ke port 2025.
 
-### berLayar / berLayar Pro
+### berLayar
+> Lihat panduan penggunaan di folder [docs/user-guide/berLayar.md](docs/user-guide/berLayar.md).
+
 1. **Double-click `berLayar.exe`**
 	(cukup klik dua kali)
 
 2. **Atur parameter di GUI**
-	Pilihan pada berLayar Pro memiliki pengaturan untuk monitor, FPS, kualitas, kamera, dsb.
+	Aktifkan kamera jika ingin menggunakan kamera kemudian seusaikan pengaturan lain dengan kebutuhan.
+  > Opsi bertanda **(pro)** hanya tersedia di versi Pro.
 
 3. Klik **Mulai**; alamat **IP:2025** tampil di panel.
-	Informasi akan tampil di panel, terdapat juga informasi waktu berjalan.
+	Informasi akan tampil di panel menandakan berLayar sudah berjalan.
 
 4. Buka alamat itu di browser perangkat lain.
 
 5. **Berhenti:** klik **Berhenti** atau tutup console.
+
+### berLayar Pro
+> Lihat panduan penggunaan di folder [docs/user-guide/berLayar-pro.md](docs/user-guide/berLayar-pro.md).
+
+1. **Double-click `berLayar.exe`**
+  (cukup klik dua kali)
+
+2. **Atur parameter di GUI**
+  Pilihan pada berLayar Pro memiliki pengaturan untuk monitor dan pengaturan FPS, kualitas, dsb yang lebih bervariasi.
+
+3. Klik **Mulai**; alamat **IP:2025** tampil di panel.
+  Informasi akan tampil di panel, terdapat juga informasi waktu berjalan.
+
+4. Buka alamat itu di browser perangkat lain.
+
+5. **Berhenti:** klik **Berhenti** atau tutup console.
+  Informasi waktu berLayar akan ditampilkan.
 
 ---
 
