@@ -88,6 +88,7 @@ Aplikasi ini berjalan secara **offline** di jaringan lokal (LAN/WiFi), dan dapat
 ![Console Lite](docs/images/console-lite.png)
 
 **Gui — berLayar**
+
 ![GUI berLayar](docs/images/gui-berLayar-light.png)
 
 **GUI — Pro Edition (Dark)**
