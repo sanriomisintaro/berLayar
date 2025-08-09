@@ -14,6 +14,8 @@ Aplikasi ini berjalan secara **offline** di jaringan lokal (LAN/WiFi), dan dapat
 - **Bisa dikustomisasi** (logo, teks, dan tampilan halaman)
 - Privasi terjaga karena hanya berjalan di jaringan lokal Anda
 
+---
+
 ## Produk berLayar
 
 ### 1) berLayar Lite _(Gratis)_
@@ -25,12 +27,13 @@ Aplikasi ini berjalan secara **offline** di jaringan lokal (LAN/WiFi), dan dapat
 
 ### 2) berLayar _(Gratis)_
 - **GUI Admin Panel** lengkap.
-- Pilih monitor, atur FPS/kualitas/skala.
+- Pilihan FPS/kualitas/skala.
 - **Kamera PiP** (posisi/ukuran/opacity).
 - Tema gelap/terang & ukuran font.
 
 ### 3) berLayar Pro _(Berbayar — Windows)_
 - Semua fitur di **berLayar** +
+  - **Pilih Layar Monitor** Layar Utama/Layar External
   - **Pratinjau** sebelum berbagi layar
   - **Timer** durasi sesi
   - **Kustomisasi** `index.html` & logo viewer
@@ -64,18 +67,19 @@ Aplikasi ini berjalan secara **offline** di jaringan lokal (LAN/WiFi), dan dapat
 | Streaming layar utama | ✔ | ✔ | ✔ | ✔ |
 | Menghentikan stream dengan tutup console | ✔ | ✔ | ✔ | ✔ |
 | GUI Admin Panel | ✘ | ✔ | ✔ | ✔ |
-| Pilih monitor yang ingin dibagikan | ✘ | ✔ | ✔ | ✔* |
-| Atur FPS (5–30) | ✘ | ✔ | ✔ | ✔ |
-| Atur kualitas JPEG (30–100) | ✘ | ✔ | ✔ | ✔ |
-| Atur skala ukuran layar (50–100%) | ✘ | ✔ | ✔ | ✔ |
+| Pilih monitor yang ingin dibagikan | ✘ | ✘ | ✔ | ✔* |
+| Atur FPS (5–30) | ✘ | ✔** | ✔ | ✔ |
+| Atur kualitas JPEG (30–100) | ✘ | ✔** | ✔ | ✔ |
+| Atur skala ukuran layar (50–100%) | ✘ | ✔** | ✔ | ✔ |
 | Integrasi kamera (PiP) | ✘ | ✔ | ✔ | ✔* |
-| Atur posisi/ukuran/opacity kamera | ✘ | ✔ | ✔ | ✔* |
+| Atur posisi/ukuran/opacity kamera | ✘ | ✔** | ✔ | ✔* |
 | Tema gelap/terang & ukuran font UI | ✘ | ✔ | ✔ | ✔ |
 | **Pratinjau sebelum berbagi layar** | ✘ | ✘ | ✔ | ✔* |
 | **Timer durasi sesi** | ✘ | ✘ | ✔ | ✔* |
 | **Kustomisasi `index.html` & logo viewer** | ✘ | ✘ | ✔ | ✔ |
 
 > \* Ketersediaan di **Exclusive Build** tergantung platform dan integrasi yang diinginkan.
+> \*\* Fitur terbatas.
 
 ---
 
@@ -92,8 +96,20 @@ Aplikasi ini berjalan secara **offline** di jaringan lokal (LAN/WiFi), dan dapat
 **GUI — Pro Edition (Preview Load)**
 ![GUI Load_Preview](docs/images/gui-pro-preview-load.png)
 
-**Viewer — Browser Client — Versi Gratis**
-![Viewer Client](docs/images/viewer-client.png)
+**Viewer — Browser Client — Versi Gratis — Mobile Phone — Portrait**
+![Viewer Client](docs/images/viewer-client-mobile-potrait.png)
+
+**Viewer — Browser Client — Versi Gratis — Tablet — Landscape**
+![Viewer Client](docs/images/viewer-client-tablet-landscape.png)
+
+---
+
+## Cara Pemasangan
+
+### dua langkah mudah
+
+1. Masuk kedalam folder dist, terdapat dua pilihan versi berLayar dan versi berLayar lite.
+2. Unduh dan kemudian jalankan dari manapun tanpa perlu melakukan instalasi.
 
 ---
 
