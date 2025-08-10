@@ -235,6 +235,6 @@ Butuh bantuan? Email: **rheomie@gmail.com**
 
 ## Lisensi
 
-Aplikasi **berLayar Lite dan berLayar** tersedia secara gratis untuk penggunaan **pribadi** dan **edukasi**.  
-Untuk **berLayar Pro** dapatkan pada **[Lisensi Pro via Trakteer](https://trakteer.id/berLayar)**.
-**Exclusive Build (Platform Edition)** Silakan hubungi kami untuk kebutuhan kustomisasi.
+- Aplikasi **berLayar Lite dan berLayar** tersedia secara gratis untuk penggunaan **pribadi** dan **edukasi**.  
+- Untuk **berLayar Pro** dapatkan pada **[Lisensi Pro via Trakteer](https://trakteer.id/berLayar)**.
+- **Exclusive Build (Platform Edition)** Silakan hubungi kami untuk kebutuhan kustomisasi.
