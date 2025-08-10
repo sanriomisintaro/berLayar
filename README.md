@@ -42,7 +42,7 @@ Aplikasi ini berjalan secara **offline** di jaringan lokal (LAN/WiFi), dan dapat
 > Lisensi resmi **berLayar Pro** tersedia melalui **Trakteer**. Setelah pembelian diverifikasi,
 > Anda akan menerima file lisensi beserta panduan aktivasi.
 >
-> **[Beli Lisensi Pro via Trakteer](https://trakteer.id/berLayar)**
+> **[Beli Lisensi Pro via Trakteer](https://trakteer.id/berLayar/shop)**
 >
 > > **Catatan:** Donasi **tidak otomatis** menjadi lisensi. Pilih item **“Lisensi berLayar Pro”** di bagian SHOP. 
 
@@ -215,7 +215,7 @@ Ingin versi Pro yang khusus dengan logo dan teks Anda sendiri?
 ## Dukung & Lisensi via Trakteer
 
 Anda bisa:
-- **Dukung pengembangan** proyek ini (donasi sukarela)
+- **Dukung pengembangan** proyek ini **[(Donasi Suka Rela)](https://trakteer.id/berLayar/tip)**
 - **Membeli lisensi berLayar Pro**
 
 **Link:** https://trakteer.id/berLayar
