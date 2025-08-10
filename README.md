@@ -36,12 +36,20 @@ Aplikasi ini berjalan secara **offline** di jaringan lokal (LAN/WiFi), dan dapat
   - **Pilih Layar Monitor** Layar Utama/Layar External
   - **Pratinjau** sebelum berbagi layar
   - **Timer** durasi sesi
-  - **Kustomisasi** `index.html` & logo viewer
+  - **Pilihan PORT** 
 - Solusi lengkap untuk penggunaan **profesional**.
+> ### Beli Lisensi berLayar Pro
+> Lisensi resmi **berLayar Pro** tersedia melalui **Trakteer**. Setelah pembelian diverifikasi,
+> Anda akan menerima file lisensi beserta panduan aktivasi.
+>
+> **[Beli Lisensi Pro via Trakteer](https://trakteer.id/berLayar)**
+>
+> > **Catatan:** Donasi **tidak otomatis** menjadi lisensi. Pilih item **“Lisensi berLayar Pro”** di bagian SHOP. 
 
 ### 4) Exclusive Build — Platform Edition _(Berbayar — macOS/Linux)_
 - Turunan dari **berLayar Pro**.
 - Fitur disesuaikan kemampuan platform.
+- **Kustomisasi** `Tampilan Client (dari web browser)` & logo viewer
 - Distribusi terbatas; hanya melalui pemesanan khusus.
 
 ---
@@ -76,7 +84,7 @@ Aplikasi ini berjalan secara **offline** di jaringan lokal (LAN/WiFi), dan dapat
 | Tema gelap/terang & ukuran font UI | ✘ | ✔ | ✔ | ✔ |
 | **Pratinjau sebelum berbagi layar** | ✘ | ✘ | ✔ | ✔* |
 | **Timer durasi sesi** | ✘ | ✘ | ✔ | ✔* |
-| **Kustomisasi `index.html` & logo viewer** | ✘ | ✘ | ✔ | ✔ |
+| **Kustomisasi `Tampilan Client` & logo viewer** | ✘ | ✘ | ✘ | ✔ |
 
 > \* Ketersediaan di **Exclusive Build** tergantung platform dan integrasi yang diinginkan.
 > \*\* Fitur terbatas.
@@ -204,7 +212,29 @@ Ingin versi Pro yang khusus dengan logo dan teks Anda sendiri?
 
 ---
 
+## Dukung & Lisensi via Trakteer
+
+Anda bisa:
+- **Dukung pengembangan** proyek ini (donasi sukarela)
+- **Membeli lisensi berLayar Pro**
+
+**Link:** https://trakteer.id/berLayar
+
+**Perbedaan singkat**
+- *Dukung Developer* merupakan donasi sukarela, tidak termasuk lisensi.
+- *Lisensi Pro* merupakan pembelian dengan nominal tetap untuk menerima file lisensi.
+
+**Setelah beli lisensi**
+1) Unduh file lisensi yang anda dapatkan.  
+2) Jika anda tidak mendapatkan file, kirim email untuk pengaduan. Setelah pembayaran diverifikasi (jam operasional 08.00–16.00 WIB), kami kirim **file lisensi** + instruksi.  
+3) Aktivasi: letakkan file `lisensi` di folder yang sama dengan `berLayar.exe`, lalu jalankan aplikasi.
+
+Butuh bantuan? Email: **rheomie@gmail.com**
+
+---
+
 ## Lisensi
 
 Aplikasi **berLayar Lite dan berLayar** tersedia secara gratis untuk penggunaan **pribadi** dan **edukasi**.  
-Untuk **berLayar Pro & Exclusive Build (Platform Edition)** Silakan hubungi kami untuk kebutuhan kustomisasi atau penggunaan **komersial**.
+Untuk **berLayar Pro** dapatkan pada **[Lisensi Pro via Trakteer](https://trakteer.id/berLayar)**.
+**Exclusive Build (Platform Edition)** Silakan hubungi kami untuk kebutuhan kustomisasi.
