@@ -7,7 +7,7 @@ Terima kasih telah menggunakan berLayar versi gratis.
 Cara Menggunakan:
 1. Klik dua kali file "berLayar-lite.exe".
 2. Aplikasi akan membuka dua layar, console dan GUI (jangan tutup keduanya)
-3. Pada tampilan GUI dan console terdapat alamat yang dapat diakses (misalnya: http://192.168.x.x:5000).
+3. Pada tampilan GUI dan console terdapat alamat yang dapat diakses (misalnya: http://192.168.x.x:2025).
 4. Buka browser pada perangkat lain yang terhubung di jaringan yang sama, lalu akses alamat tersebut. (client dapat terhubung namun tampilan berlum dibagikan)
 5. Tekan tombol mulai untuk mulai membagikan layar
 6. Untuk menghentikan berbagi layar:
@@ -19,7 +19,6 @@ Catatan:
   * Monitor: Utama
   * FPS: 10 - 30
   * Ukuran layar: 50% dan 100%
-  * Host : 5000 (fix)
   * Preview : tidak tersedia
 - Pastikan perangkat Anda terhubung pada jaringan yang sama dengan perangkat penerima.
 
