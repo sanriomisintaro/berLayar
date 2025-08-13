@@ -18,14 +18,14 @@ Aplikasi ini berjalan secara **offline** di jaringan lokal (LAN/WiFi), dan dapat
 
 ## Produk berLayar
 
-### 1) berLayar Lite _(Gratis)_
+### 1) berLayar Lite _(Gratis)_ [Unduh di Dist](https://github.com/sanriomisintaro/berLayar/tree/main/dist/berLayar-lite)
 - **Console-only** (tanpa GUI).
 - Hanya membagikan layar utama.
 - Tidak ada kustomisasi (monitor, FPS, kualitas).
 - Menghentikan stream dengan menutup console.
 - Ringan, cocok untuk **komputer low-end**.
 
-### 2) berLayar _(Gratis)_
+### 2) berLayar _(Gratis)_ [Unduh di Dist](https://github.com/sanriomisintaro/berLayar/tree/main/dist/berLayar)
 - **GUI Admin Panel** lengkap.
 - Pilihan FPS/kualitas/skala.
 - **Kamera PiP** (posisi/ukuran/opacity).
