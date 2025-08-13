@@ -36,7 +36,6 @@ Aplikasi ini berjalan secara **offline** di jaringan lokal (LAN/WiFi), dan dapat
   - **Pilih Layar Monitor** Layar Utama/Layar External
   - **Pratinjau** sebelum berbagi layar
   - **Timer** durasi sesi
-  - **Pilihan PORT** 
 - Solusi lengkap untuk penggunaan **profesional**.
 > ### Beli Lisensi berLayar Pro
 > Lisensi resmi **berLayar Pro** tersedia melalui **Trakteer**. Setelah pembelian diverifikasi,
@@ -115,10 +114,19 @@ Aplikasi ini berjalan secara **offline** di jaringan lokal (LAN/WiFi), dan dapat
 
 ## Cara Pemasangan
 
-### dua langkah mudah
+### Lite
 
 1. Masuk kedalam folder dist, terdapat dua pilihan versi berLayar dan versi berLayar lite.
-2. Unduh dan kemudian jalankan dari manapun tanpa perlu melakukan instalasi.
+2. **Unduh** `berLayar-lite.exe`.
+3. Jalankan dari manapun.
+
+### berLayar-setup
+
+1. Masuk kedalam folder dist, terdapat dua pilihan versi berLayar dan versi berLayar lite.
+2. **Unduh** `berLayar-Setup.exe`.
+3. **Jalankan** lalu klik **Next** terus hingga selesai.
+4. (Opsional) Jika muncul opsi **Allow berLayar on Private network**, centang agar Windows Firewall mengizinkan akses LAN.
+5. Selesai. Aplikasi terpasang di: 'C:\Program Files\berLayar\' dan ada shortcut di **Start Menu** (serta Desktop jika dipilih).
 
 ---
 
@@ -227,7 +235,7 @@ Anda bisa:
 **Setelah beli lisensi**
 1) Unduh file lisensi yang anda dapatkan.  
 2) Jika anda tidak mendapatkan file, kirim email untuk pengaduan. Setelah pembayaran diverifikasi (jam operasional 08.00–16.00 WIB), kami kirim **file lisensi** + instruksi.  
-3) Aktivasi: letakkan file `lisensi` di folder yang sama dengan `berLayar.exe`, lalu jalankan aplikasi.
+3) Aktivasi: letakkan file `lisensi` di folder yang sama dengan `berLayar.exe` cari di 'C:\Program Files\berLayar\', lalu jalankan aplikasi (jika sudah berjalan, tutup terlebih dahulu kemudian jalankan kembali).
 
 Butuh bantuan? Email: **rheomie@gmail.com**
 
